@@ -16,8 +16,6 @@ Things we require your code to have:
 
 ## Requirements
 
-User catalog personalization.
-
 #### Auth Module
 
 - When the email exists and password is correct a new token is generated for further requests.
