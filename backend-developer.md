@@ -1,6 +1,6 @@
 # Backend Developer Challengue
 
-The assignment is designed to check your coding and problem-solving skills. We suggest you spend a maximum of 4-5 hours on it.
+The assignment is designed to check your coding and problem-solving skills. We suggest you spend a maximum of 8-10 hours on it.
 
 Things we require your code to have:
 
