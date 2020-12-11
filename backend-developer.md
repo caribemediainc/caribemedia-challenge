@@ -1,6 +1,6 @@
 # Backend Developer Challengue
 
-The assignment is designed to check your coding and problem-solving skills. We suggest you spend a maximum of 4-5 hours on it.
+The assignment is designed to check your coding and problem-solving skills. We suggest you spend a maximum of 8-10 hours on it.
 
 Things we require your code to have:
 
@@ -15,8 +15,6 @@ Things we require your code to have:
 **Note**: No UI needed.
 
 ## Requirements
-
-User catalog personalization.
 
 #### Auth Module
 
@@ -94,10 +92,10 @@ Listing shape example:
 ## Deliverables
 
 1. Use REST or GraphQL to build the API.
-2. Use the Typescript as language.
-3. Use any database as data store.
-4. Use Microsoft Azure as a cloud provider to deploy, make sure we can play with the API.
-5. Setup a CI server to run your tests, we must be able to check all tests passing.
+2. Use Typescript.
+3. Use any database as data store (preferably Postgres and CosmosDB)
+4. Use the cloud provider of your preference to deploy (preferably Azure). Make sure we can play with the API. 
+5. Setup a CI server to run your tests.
 
 ## Nice to have (not required)
 
