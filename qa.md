@@ -2,7 +2,7 @@
 
 The assignment is designed to check your qa and problem-solving skills. We are more interested in test automation, project documentation and testing strategies.
 
-**Purpose:** to test a large, content-focused website like [Páginas Amarillas](https://paginasmarillas.com.do)
+**Purpose:** to test a large, content-focused website like [Páginas Amarillas](https://paginasamarillas.com.do)
 
 **Instructions:** create a test plan for the site, which should include steps to identify both visual and functional defects on multiple browsers, devices, and platforms.
 
