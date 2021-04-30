@@ -17,5 +17,6 @@ Welcome to our challenge, it means a lot to us, you already passed the interview
 3. [Quality Assurance](./qa.md)
 4. [Database Administrator](./dba.md)
 5. [Data Cience Expert](./data-cience.md)
+6. [DevOps Craftman](./devops.md)
 
 ![](https://docs.microsoft.com/en-us/windows/apps/get-started/images/developer-poster.png)
