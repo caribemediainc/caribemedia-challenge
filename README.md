@@ -16,7 +16,8 @@ Welcome to our challenge, it means a lot to us, you already passed the interview
 2. [Frontend](./frontend-developer.md)
 3. [Quality Assurance](./qa.md)
 4. [Database Administrator](./dba.md)
-5. [Data Cience Expert](./data-cience.md)
+5. [Data Science Expert](./data-cience.md)
 6. [DevOps Craftman](./devops.md)
+7. [Odoo Developer](./odoo-developer.md)
 
 ![](https://docs.microsoft.com/en-us/windows/apps/get-started/images/developer-poster.png)
