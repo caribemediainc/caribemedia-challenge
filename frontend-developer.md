@@ -1,4 +1,4 @@
-# Frontend Developer Challengue
+# Frontend Developer Challenge
 
 The assignment is designed to check your coding and problem-solving skills. We are more interested in Architecture, Domain model design and Markup skills than in tooling setup.
 

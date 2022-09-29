@@ -1,4 +1,4 @@
-# Quality Assurance Challengue
+# Quality Assurance Challenge
 
 The assignment is designed to check your qa and problem-solving skills. We are more interested in test automation, project documentation and testing strategies.
 

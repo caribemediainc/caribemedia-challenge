@@ -1,4 +1,4 @@
-# Backend Developer Challengue
+# Backend Developer Challenge
 
 The assignment is designed to check your coding and problem-solving skills. We suggest you spend a maximum of 8-10 hours on it.
 
@@ -94,7 +94,7 @@ Listing shape example:
 1. Use REST or GraphQL to build the API.
 2. Use Typescript.
 3. Use any database as data store (preferably Postgres and CosmosDB)
-4. Use the cloud provider of your preference to deploy (preferably Azure). Make sure we can play with the API. 
+4. Use the cloud provider of your preference to deploy (preferably Azure). Make sure we can play with the API.
 5. Setup a CI server to run your tests.
 
 ## Nice to have (not required)

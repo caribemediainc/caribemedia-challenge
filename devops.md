@@ -1,4 +1,4 @@
-# DevOps Challengue
+# DevOps Challenge
 
 The assignment is designed to check your coding, problem-solving and cloud design skills . We suggest you spend a maximum of 10-14 hours on it.
 
