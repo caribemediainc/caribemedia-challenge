@@ -22,7 +22,7 @@ Your job as an Odoo Developer is to create and maintain odoo modules that helps 
 
 ### Tasks
 
-You should get your Odoo V12.0 instance up and running by yourself in any way of your preference.
+You should get your Odoo V15.0 instance up and running by yourself in any way of your preference.
 
 > we recommend using [VSCode](https://code.visualstudio.com/) as a lightweight code editor, [Dockerdoo](https://github.com/iterativo-git/dockerdoo) as a nice and easy way to get odoo running in docker and [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension to build and run dockerdoo faster.
 
