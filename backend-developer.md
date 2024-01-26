@@ -1,16 +1,16 @@
 # Backend Developer Challenge
 
-The assignment is designed to check your coding and problem-solving skills. We suggest you spend a maximum of 8-10 hours on it.
+The assignment is designed to check your coding and problem-solving skills. Use modern tools and practices. We suggest you spend a maximum of 8-12 hours on it.
 
-Things we require your code to have:
+**Things we require your code to have:**
 
-- Domain model design (usage of DDD concepts: aggregates, value objects, domain services, etc)
-- Messaging (Queues, Events, Commands)
-- Code organization (modularity, dependencies between modules, etc)
-- Exception handling and logging
-- Writing and organizing tests
-- Task-based asynchronous programming
-- Deployment Process
+- **Domain Model Design**: Implement DDD concepts: aggregates, value objects, domain services, etc.
+- **Messaging System (optional)**: Implement Queues, Events, Commands.
+- **Code Organization**: Ensure modularity and proper dependencies.
+- **Exception Handling and Logging**: Robust error management and informative logging.
+- **Testing**: Comprehensive test suite covering key functionalities.
+- **Asynchronous Programming**: Efficient task-based asynchronous patterns.
+- **Deployment Process**: Documented and reproducible deployment steps.
 
 **Note**: No UI needed.
 
@@ -18,13 +18,13 @@ Things we require your code to have:
 
 #### Auth Module
 
-- When the email exists and password is correct a new token is generated for further requests.
-- When the email exists and the password is incorrect the API must respond "Oops! wrong password".
-- When a new user is created a welcome email is sent to its inbox.
+- Generate a token for valid email/password combinations.
+- Return "Oops! wrong password" for invalid credentials.
+- Send a welcome email on new user registration.
 
 #### Listing Module
 
-- The user can search for a business using a term
+- The user can search for a business using a term.
 - The user can list all available listings depending on its city.
 - The user can sort the listings by all the available params.
 
@@ -91,14 +91,18 @@ Listing shape example:
 
 ## Deliverables
 
-1. Use REST or GraphQL to build the API.
-2. Use Typescript.
-3. Use any database as data store (preferably Postgres and CosmosDB)
-4. Use the cloud provider of your preference to deploy (preferably Azure). Make sure we can play with the API.
-5. Setup a CI server to run your tests.
+1. Use REST to build the API
+2. **Language**: Typescript.
+3. **Backend Framework**: Choose one - Nest.js (desirable), Express.js, or Fastify.
+4. **Database**: Any, with a preference for Postgres or NoSQL CosmosDB.
+5. **Cloud Deployment**: Azure preferred. Provide access to a working API instance.
+6. **CI/CD**: Setup a continuous integration server for tests and deployment (e.g., GitHub Actions).
 
 ## Nice to have (not required)
 
-1. Use a search engine (Elastic Search or Azure Cognitive Search)
-2. Use Azure Functions
-3. Dockerize and deploy your application using GitHub Actions
+1. **Search Engine Integration**: Elastic Search or Azure Cognitive Search.
+2. **Serverless Functions**: Utilize Azure Functions.
+3. **GitHub Actions**: For Dockerization and deployment.
+4. **Containerization and Orchestration**: Dockerize your application and prepare it for Kubernetes deployment.
+
+**Note:** Ensure your code is efficient, readable, and well-documented. Good luck.
