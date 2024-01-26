@@ -91,7 +91,7 @@ Listing shape example:
 
 ## Deliverables
 
-1. Use REST to build the API
+1. Use **REST** to build the API
 2. **Language**: Typescript.
 3. **Backend Framework**: Choose one - Nest.js (desirable), Express.js, or Fastify.
 4. **Database**: Any, with a preference for Postgres or NoSQL CosmosDB.
